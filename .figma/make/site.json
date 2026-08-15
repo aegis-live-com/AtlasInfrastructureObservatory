@@ -1,0 +1,10 @@
+{
+  "description": "Explore and design regenerative infrastructure solutions through an interactive observatory that simulates futures, identifies opportunities, and coordinates capital.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
